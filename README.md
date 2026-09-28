@@ -50,12 +50,6 @@ Clone the repository:
 git clone https://github.com/AndrewChan7889/PokeGUI.git
 ```
 
-Navigate into project folder:
-
-```bash
-cd pokemon-project
-```
-
 Install the required packages:
 
 ```bash
@@ -65,7 +59,7 @@ pip install requests pillow
 Run the application:
 
 ```bash
-python pokemon_gui.py
+python pokeGUI.py
 ```
 
 ## What I Learned
